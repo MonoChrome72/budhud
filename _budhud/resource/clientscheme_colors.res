@@ -28,7 +28,7 @@ Scheme
         // Unified HUD Crosshairs
         /////////////////////////
 
-        "hud_crosshair_1"                                           "255 255 255 255"   // Crosshair color
+        "hud_crosshair_1"                                           "000 255 000 000"   // Crosshair color
         "hud_crosshair_1_flash"                                     "240 134 049 255"   // Flash on damage done
 
         "hud_crosshair_2"                                           "255 255 255 255"   // Crosshair color
